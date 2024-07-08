@@ -18,7 +18,7 @@ points=[
     [0,1,1],
     [1,0,0],
     [1,0,1],
-    [1,1,0],
+    [1,1,5],
     [1,1,1], # first attempts at a cube ends here
  ]
 
